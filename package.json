@@ -83,7 +83,7 @@
     "semver": "6.3.0",
     "shasum": "1.0.2",
     "stat-mode": "0.3.0",
-    "strip-ansi": "5.2.0",
+    "strip-ansi": "6.0.0",
     "symlink-or-copy": "1.2.0",
     "systeminformation": "4.14.17",
     "tail": "2.0.3",
